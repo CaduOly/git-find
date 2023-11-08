@@ -1,0 +1,21 @@
+.item-list {
+  font-family: "Roboto", sans-serif;
+}
+
+.item-list strong {
+  color: #539bf5;
+  font-size: 24px;
+  margin: 0;
+}
+
+.item-list p {
+  margin: 24px 0 24px 0;
+  color: #999999;
+  font-size: 12px;
+}
+
+.item-list hr {
+  margin: 24px 0 24px 0;
+  color: #999999;
+  font-size: 12px;
+}

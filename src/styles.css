@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body {
+  background-color: #1d2128;
+}
+
+hr {
+  background-color: rgb(299, 299, 299, 0.2);
+  border: 1px solid rgb(229, 229, 229, 0.2);
+}
